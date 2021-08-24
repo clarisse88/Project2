@@ -1,0 +1,1 @@
+# This program helps register a distribution centers of an organisation that distribut free food pacerls to people in need. And it helps the admin to enter an item(Description,quantity,etc)and see the stock available for each item after distribution.
