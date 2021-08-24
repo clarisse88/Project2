@@ -1,0 +1,5 @@
+cool drick,Coke,11262,5,50
+Fruit,Mango,12535,10,20
+Fruit,mango,122555,5,20
+Drink,Apple juice,445685203,10,0
+Beans,Sugar Beans,4562025,20,0
